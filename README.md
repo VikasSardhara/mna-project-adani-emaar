@@ -36,7 +36,7 @@ This project is a comprehensive M&A case study analyzing the proposed acquisitio
 
 - `Adani_Emaar_M&A_Project_VedStarks.pdf` – Full polished report  
 - `Adani_Emaar_M&A_Project_VedStarks.docx` – Editable Word version  
-- (Optional) `Executive_Summary.pdf` – One-page summary
+
 
 ---
 
