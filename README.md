@@ -41,7 +41,7 @@ This project is a comprehensive M&A case study analyzing the proposed acquisitio
 
 ## 👤 About the Analyst
 
-I'm **Vikas Sardhara**, a 20-year-old aspiring investment banker building a portfolio of high-quality research projects across M&A, private equity, and strategy. This is one of my foundational projects.
+I'm **Vikas Sardhara**, an aspiring investment banker building a portfolio of high-quality research projects across M&A, private equity, and strategy. This is one of my foundational projects.
 
 ---
 
