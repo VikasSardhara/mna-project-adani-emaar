@@ -2,7 +2,7 @@
 
 📁 **Deal Value:** $1.4–$1.5 Billion  
 🏗 **Industry:** Real Estate  
-🧠 **Analyst:** Vikas Sardhara (Age 20)  
+🧠 **Analyst:** Vikas Sardhara
 📅 **Completed:** March 2025
 
 ---
